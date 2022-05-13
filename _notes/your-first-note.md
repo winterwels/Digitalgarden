@@ -1,4 +1,4 @@
-@@ -1,112 +0,0 @@
+
 ---
 title: Your first seed
 ---

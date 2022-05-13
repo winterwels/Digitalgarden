@@ -1,5 +1,5 @@
 ----
-title: first note
+title: your-first-note
 ---
 
 ### 환영!

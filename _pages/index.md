@@ -11,9 +11,10 @@ permalink: /
   <span style="font-weight: bold">[[first-note]] 를 클릭하여 탐색하세요.</span>
 </p>
 
-[[first-note]]
-[[first note]]
-[first note]
+[[your first note]]
+[[your-first-note]]
+
+
 
 별 거 없음
 

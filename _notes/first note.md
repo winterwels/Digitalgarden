@@ -1,5 +1,5 @@
 ----
-title: 첫번째 페이지
+title: first note
 ---
 
 ### 환영!

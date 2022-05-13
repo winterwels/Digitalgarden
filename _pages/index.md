@@ -8,7 +8,7 @@ permalink: /
 # 환영 ! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  <span style="font-weight: bold">[[첫번째 페이지]] 를 클릭하여 탐색하세요.</span>
+  <span style="font-weight: bold">[[first note]] 를 클릭하여 탐색하세요.</span>
 </p>
 
 별 거 없음

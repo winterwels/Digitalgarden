@@ -1,4 +1,3 @@
-
 ---
 title: Your first seed
 ---

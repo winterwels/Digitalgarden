@@ -11,6 +11,10 @@ permalink: /
   <span style="font-weight: bold">[[first-note]] 를 클릭하여 탐색하세요.</span>
 </p>
 
+[[first-note]]
+[[first note]]
+[first note]
+
 별 거 없음
 
 이쪽엔 주로 업무관련 정보 + 개인적으로 가치를 느끼는 아티클들이 개제될 예정.
